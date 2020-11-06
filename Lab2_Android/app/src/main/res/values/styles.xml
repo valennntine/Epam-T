@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle">
+        <item name="android:radius">20dp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="backgroundTint">@color/green</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="TextViewStyle">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="EditTextStyle">
+        <item name="android:textSize">15sp</item>
+    </style>
+</resources>

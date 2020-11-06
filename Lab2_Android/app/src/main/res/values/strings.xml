@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1_Android</string>
+    <string name="Okey_Button">OK</string>
+    <string name="ZeroTextValue">0</string>
+</resources>
