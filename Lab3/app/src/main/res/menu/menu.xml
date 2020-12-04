@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_russia"
+        android:title="@string/menu_russia" />
+    <item android:id="@+id/menu_germany"
+        android:title="@string/menu_germany" />
+    <item android:id="@+id/menu_spain"
+        android:title="@string/menu_spain" />
+    <item android:id="@+id/menu_сhinese"
+        android:title="@string/menu_сhinese" />
+    <item android:id="@+id/menu_japanese"
+        android:title="@string/menu_japanese" />
+</menu>

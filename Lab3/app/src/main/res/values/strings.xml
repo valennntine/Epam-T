@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="textView_HelloWorld">Hello World</string>
+    <string name="menu_russia">Русский</string>
+    <string name="menu_germany">Немецкий</string>
+    <string name="menu_spain">Испанский</string>
+    <string name="menu_сhinese">Китайский</string>
+    <string name="menu_japanese">Японский</string>
+</resources>
